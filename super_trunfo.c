@@ -34,7 +34,7 @@ int main(){
     printf("Área: %.2f km²\n", area2);
     printf("PIB: %.2f\n", pib2);
     printf("Pontos turísticos: %d\n", pontosTuristicos2);
-
+    printf("Novo commit\n");
     return 0;
 
 }
