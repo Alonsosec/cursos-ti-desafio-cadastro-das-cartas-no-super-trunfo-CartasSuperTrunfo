@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 
 int main(){
     char estado1[3] = "A";
@@ -38,16 +38,3 @@ int main(){
     return 0;
 
 }
-
-
-
-    
-
-    
-
-
-
-
-
- 
-    
